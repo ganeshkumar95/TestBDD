@@ -41,11 +41,11 @@ public class LoginPage {
 		Thread.sleep(8000);
 	}
 	
-	public AccountsPage doLogin(String un, String pwd) throws InterruptedException {
-		driver.findElement(emailId).sendKeys(un);
-		driver.findElement(password).sendKeys(pwd);
-		driver.findElement(signInButton).click();
-		Thread.sleep(8000);
-		return new AccountsPage(driver);
-	}
+//	public AccountsPage doLogin(String un, String pwd) throws InterruptedException {
+//		driver.findElement(emailId).sendKeys(un);
+//		driver.findElement(password).sendKeys(pwd);
+//		driver.findElement(signInButton).click();
+//		Thread.sleep(8000);
+//		return new AccountsPage(driver);
+//	}
 }

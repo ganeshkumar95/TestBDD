@@ -1,6 +1,4 @@
-com/ProjectKBDD/StepDefinitions/LoginPageSteps.class
-com/ProjectKBDD/AppHooks/ApplicationHooks.class
 com/ProjectKBDD/Runners/TestRunner.class
-com/ProjectKBDD/StepDefinitions/AccountPageSteps.class
+com/ProjectKBDD/StepDefinitions/LoginPageSteps.class
 com/ProjectKBDD/Runners/FailedRun.class
-com/ProjectKBDD/Runners/SerenityTestRunner.class
+com/ProjectKBDD/AppHooks/ApplicationHooks.class

@@ -3,4 +3,3 @@ com/ProjectKBDD/utils/Constants.class
 com/ProjectKBDD/utils/ConfigReader.class
 com/ProjectKBDD/pages/LoginPage.class
 com/ProjectKBDD/factory/DriverFactory.class
-com/ProjectKBDD/pages/AccountsPage.class

@@ -1,6 +1,4 @@
 /home/ganesh/eclipse-workspace/ProjectKBDD/src/test/java/com/ProjectKBDD/AppHooks/ApplicationHooks.java
 /home/ganesh/eclipse-workspace/ProjectKBDD/src/test/java/com/ProjectKBDD/Runners/FailedRun.java
-/home/ganesh/eclipse-workspace/ProjectKBDD/src/test/java/com/ProjectKBDD/StepDefinitions/AccountPageSteps.java
 /home/ganesh/eclipse-workspace/ProjectKBDD/src/test/java/com/ProjectKBDD/StepDefinitions/LoginPageSteps.java
-/home/ganesh/eclipse-workspace/ProjectKBDD/src/test/java/com/ProjectKBDD/Runners/SerenityTestRunner.java
 /home/ganesh/eclipse-workspace/ProjectKBDD/src/test/java/com/ProjectKBDD/Runners/TestRunner.java
