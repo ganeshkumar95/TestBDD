@@ -38,7 +38,7 @@ public class LoginPage {
 	
 	public void clickOnLogin() throws InterruptedException {
 		driver.findElement(signInButton).click();
-		Thread.sleep(8000);
+		Thread.sleep(2000);
 	}
 	
 //	public AccountsPage doLogin(String un, String pwd) throws InterruptedException {

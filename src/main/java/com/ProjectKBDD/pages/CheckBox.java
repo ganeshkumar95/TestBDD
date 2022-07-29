@@ -22,7 +22,7 @@ public class CheckBox {
 	}
 	
 	public void validateCheckBoxop() throws InterruptedException {
-		Thread.sleep(5000);
+		Thread.sleep(2000);
 		driver.findElement(expandOpenIcon).click();
 		driver.findElement(homeCheckBox).click();
 		driver.findElement(expandOpenSubIcon).click();
