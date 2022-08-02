@@ -1,25 +1,47 @@
 $(document).ready(function() {
 CucumberHTML.timelineItems.pushArray([
   {
-    "id": "ebbda680-587a-4c1c-bcfe-f6f2c2eb7bf3",
-    "feature": "Radio Button Element Feature",
-    "scenario": "Click on different radiobutton elements",
-    "start": 1658994338790,
+    "id": "781662fb-59a2-4012-aaec-356896a7b154",
+    "feature": "Check Button Element",
+    "scenario": "Right Click on Button",
+    "start": 1659098464065,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1658994352589,
+    "end": 1659098470558,
     "className": "passed"
   },
   {
-    "id": "c54a87ea-7725-4a1e-b74b-60c1a2a94903",
-    "feature": "Radio Button Element Feature",
-    "scenario": "Click on RadioButton Element",
-    "start": 1658994333905,
+    "id": "4fe1a71b-bf18-454a-8af1-82ae4cdec9a1",
+    "feature": "Check Button Element",
+    "scenario": "Double Click on Button",
+    "start": 1659098456256,
     "group": 1,
     "content": "",
     "tags": "",
-    "end": 1658994338779,
+    "end": 1659098464059,
+    "className": "passed"
+  },
+  {
+    "id": "405384e2-b318-48e8-ae1c-a523f6727b17",
+    "feature": "Check Button Element",
+    "scenario": "Click on Button",
+    "start": 1659098470565,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1659098476834,
+    "className": "passed"
+  },
+  {
+    "id": "7a49fc76-aa80-4908-bc09-f99bf1ff6609",
+    "feature": "Check Button Element",
+    "scenario": "Click on Button Element",
+    "start": 1659098447856,
+    "group": 1,
+    "content": "",
+    "tags": "",
+    "end": 1659098456246,
     "className": "passed"
   }
 ]);
